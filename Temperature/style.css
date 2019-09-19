@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(49, 49, 49);
+    font-size: 20px;
+}
+
+body {
+    background-color: white;
+    margin: 0 auto;
+    width: 900px;
+    padding: 50px;
+    font-family: Lato;
+    height: 800px;
+}
+
+h1, h3 {
+    font-family: Gayathri;
+}
+
+button {
+    font-family: Lato;
+}
